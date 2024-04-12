@@ -25,6 +25,9 @@ https://www.gtk.tv/hls/gtyar.m3u8
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1,Ertis HD
 #EXTGRP:Казахстан
+http://92.242.110.52:9835/udp/238.1.7.19:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png",Discovery Channel HD
+#EXTGRP:Познавательные
 https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС Прима.png",СТС (Архив)
 #EXTGRP:Развлекательные
@@ -6184,9 +6187,6 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Моя Одесса.png",Моя стихия
 #EXTGRP:Хобби
-http://92.242.110.52:9835/udp/238.1.7.19:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png",Discovery Channel HD
-#EXTGRP:Познавательные
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Мужской v.1.png",Мужской
 #EXTGRP:Хобби
