@@ -68,9 +68,6 @@ https://ipv4.bozztv.com/dvrfl07/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png",Кинозалы 1
 #EXTGRP:Retro_film
 https://ipv4.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Relax
-#EXTGRP:Relax
-error
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000004XC_20230222T012142SQUARE.png_20230222012142.png",Euronews Live
 #EXTGRP:Austria
 https://i.mjh.nz/SamsungTVPlus/ATBA1000004XC.m3u8
@@ -3956,9 +3953,6 @@ http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Татарстан.png",Арсенал HD
 #EXTGRP:Познавательные
 http://109.239.208.82/arsenal/index.m3u8
-#EXTINF:-1,Swim Off The Air
-#EXTGRP:Relax
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjZa6eK.png",Deluxe Flashback (1080p)
 #EXTGRP:Music+
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
