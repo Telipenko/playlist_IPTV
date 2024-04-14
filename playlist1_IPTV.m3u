@@ -1,22 +1,23 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUD9t5j.png",Беларусь 1 (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpEHpPS.png",Беларусь 2 (1080p)
 #EXTGRP:Беларусь
-http://cdn.ntv.ru/th_serial/playlist.m3u8
+http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1,.red
 #EXTGRP:Кино
 https://ipv4.bozztv.com/dvrfl07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cobra Comedy HD
 #EXTGRP:Kino+
-error
-#EXTINF:-1 tvg-logo="https://kartina-tv.site/wp-content/uploads/2020/12/logo_new.png",За!ТВ
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEirvyx.png",Белгород 24 (1080p)
 #EXTGRP:Общие
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Украина.png",Украина
-#EXTGRP:Украина
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+http://78.26.128.59:9876/play/521/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Украiна.png",Україна
+#EXTGRP:УКРАИНА
+https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png",ТНТ Music HD
 #EXTGRP:Музыка
-http://stream01.vnet.am/Evrika/mono.m3u8
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap (1080p)
 #EXTGRP:Music+
 https://www.gtk.tv/hls/gtyar.m3u8
@@ -25,10 +26,10 @@ https://www.gtk.tv/hls/gtyar.m3u8
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1,Ertis HD
 #EXTGRP:Казахстан
-http://92.242.110.52:9835/udp/238.1.7.19:1234
+error
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png",Discovery Channel HD
 #EXTGRP:Познавательные
-https://woobl.ru/hls987/Mir_seriala.m3u8
+http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС Прима.png",СТС (Архив)
 #EXTGRP:Развлекательные
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
@@ -3940,9 +3941,6 @@ https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png",Deluxe Dance (1080p)
 #EXTGRP:Music+
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BpEHpPS.png",Беларусь 2 (1080p)
-#EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png",Губерния (Самара) (576p)
 #EXTGRP:Общие
@@ -5107,9 +5105,6 @@ http://92.242.110.52:9835/udp/238.1.7.28:1234
 https://bkm.beetv.kz/btv/live/hls/000003892.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый Метео.png",Первый музыкальный HD (Россия)
 #EXTGRP:Music+
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEirvyx.png",Белгород 24 (1080p)
-#EXTGRP:Общие
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/StarTV.png",Start World
 #EXTGRP:Кино
@@ -7155,7 +7150,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTGRP:Новости
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Футбол Украина v2.png",Украина 2
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://ipv4.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Спорт 1.png",Спорт
 #EXTGRP:Спорт
@@ -7872,187 +7867,184 @@ https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
 #EXTGRP:Кино
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/2+2.png",2+2
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://rr3.vipshara-iptv.com/~201cd2067ab813cddccc785b94cd3385727/27654/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ICTV.png",ICTV 2 HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://194.33.181.28:9010/udp/238.255.51.42:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/Телеканал новин 24.png",Новий канал SD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://str05.ottg.app/4256/video.m3u8?token=8f14466a3a13d535cd2a207a9643a6c3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Телеканал новин 24.png",Новий канал HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://str05.ottg.app/9442/video.m3u8?token=8f14466a3a13d535cd2a207a9643a6c3
 #EXTINF:-1 tvg-logo="../Channel/Logo/К1.png",К1
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://str05.ottg.app/6351/video.m3u8?token=8f14466a3a13d535cd2a207a9643a6c3
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ+ Кино Плюс.png",Кино 1
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1,Quiz TV
-#EXTGRP:Украина
-http://78.26.128.59:9876/play/521/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Украiна.png",Україна
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/К1 Украина.png",Україна 2
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://ipv4.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/3 канал (Москва).png",Квартал TV International  UA
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://88.135.128.20:7272/c5otUOm2IubgpDn
 #EXTINF:-1 tvg-logo="../Channel/Logo/Шансон ТВ.png",СОНЦЕ
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://84.200.70.180:4642/bysid/6920
 #EXTINF:-1,CTБ Серіал Перевізниця | Всі серії
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://www.youtube.com/playlist?list=PLwZhl1zHLbXdTXo8m9olnAHsTTjE6s5oY
 #EXTINF:-1,CTБ СЕРІАЛ Джованні
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://www.youtube.com/playlist?list=PLwZhl1zHLbXfJi8k8Or6nmWAT2LvSqoEe
 #EXTINF:-1,Чорноморська ТРК
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
 #EXTINF:-1,Суспільне Запоріжжя
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Суспільне Культура
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/497/index.m3u8
 #EXTINF:-1,UWN
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/108/index.m3u8
 #EXTINF:-1,Київ HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/184/index.m3u8
 #EXTINF:-1,Прямий
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/204/index.m3u8
 #EXTINF:-1,ТІС
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/512/index.m3u8
 #EXTINF:-1,Gags Network HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://95.67.12.82:9069
 #EXTINF:-1,Рибалка
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 #EXTINF:-1,Sweet
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://95.67.12.82:9085
 #EXTINF:-1,Ізмаіл ТВ
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Репортер.png",РЕПОРТЕР
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1,ІТ3
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1,Круг (Одеса)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/24 Техно.png",24 Канал
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1,СK 1
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1,FREEDOM
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1,OBOZREVATEL HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://78.26.128.59:9876/play/450/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Новый канал.png",Нове тв
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://novoe.top/nove_tv.m3u8.jpg?m3u8
 #EXTINF:-1,Renome
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1,Надія/N.K.
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1,Полтавское ТВ
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/4iptv13.png",PTV Полтавское TV
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый интернет канал.png",Тернопіль 1
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый интернет канал.png",Тернопiль 1 HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТК Орбита.png",НТК Коломия
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1,ТВА tva*org-ua
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,ТВА tva*in-ua
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1,ГІТ (Волинь)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый игровой.png",ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1,33 канал (Хмельницький)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
 #EXTINF:-1,МТМ Запоріжжя
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/7 канал (Латвия).png",7 канал tva.org.ua
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1,1 Городский Одеса HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1,Аверс (Луцьк)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
 #EXTINF:-1,Bambarbia TV
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,Дніпро TV HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/1 балтийский музыкальный.png",Балта ТВ HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1,Telekanal RAI
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Глас.png",Глас
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТРК Украина.png",ТРК Надія - Новий Канал (Первомайский)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://178.217.215.57/mob/mystream.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel черный.png",Чернівецький Промінь HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1,СК1 (Житомир)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТК.png",НТК
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/iTV.png",ITV (Рівне)
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/iTV.png",ITV HD
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/iTV.png",ITV
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
 #EXTINF:-1,Сфера ТВ
-#EXTGRP:Украина
+#EXTGRP:УКРАИНА
 http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
 #EXTINF:-1,NTS Moldova
 #EXTGRP:World_channel
