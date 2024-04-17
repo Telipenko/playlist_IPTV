@@ -10,7 +10,7 @@ http://188.113.190.15/149/mono.m3u8
 https://www.gtk.tv/hls/gtyar.m3u8
 #EXTINF:-1,За!TV
 #EXTGRP:Общие
-http://rtmp.one.by:2300
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Украина.png" tvg-id="-738589577_ictv-ua",ICTV
 #EXTGRP:Украина
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
@@ -22,15 +22,16 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-id="-738589577_mir-seriala",Мир сериала
 #EXTGRP:Сериалы
-https://realitatealive.md/tv/rlive.m3u8
+http://87.76.32.36:9106/udp/238.1.1.136:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan TV
 #EXTGRP:Казахстан
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png" tvg-id="-738589577_discovery-channel",Discovery Channel HD
 #EXTGRP:Познавательные
-http://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Enter film.png" tvg-id="-738589577_dtx-pl",TERRA
 #EXTGRP:Познавательные
+error
 #EXTINF:-1 tvg-logo="../Channel/Logo/2х2.png",2х2 (Архив)
 #EXTGRP:Развлекательные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -43,7 +44,6 @@ http://146.59.54.163/FilmBox-Extra-HD/index.m3u8
 #EXTINF:-1,Бобëр
 #EXTGRP:Хобби
 http://178.212.71.253:8002/play/a00m/index.m3u8
-https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ+ Премьера.png" tvg-id="-738589577_vf-eralash",Ералаш
 #EXTGRP:Юмор
 https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
@@ -53,9 +53,6 @@ https://bkm.beetv.kz/btv/live/hls/000000588.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Культура.png",Кулинар ТВ
 #EXTGRP:Кухня
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="-738589577_chemodan",Чемодан ТВ UA
-#EXTGRP:Кухня
-https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1,Space TV
 #EXTGRP:World_channel
 http://edge02.odtv.az/o1/space/playlist.m3u8
@@ -3917,6 +3914,18 @@ https://live.mycamtv.com/squirt.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" tvg-id="MyCamTVWhite.cy",MyCamTV White (720p)
 #EXTGRP:Вах!!! Вах!!! Вах!!!!
 https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/belarus24.png" tvg-id="belarus24",Беларусь 24 (HD)
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/belarus3hd.png" tvg-id="belarus3",Беларусь 3 (HD)
+#EXTGRP:Беларусь
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2294.png" tvg-id="tro",БелРос (WSVGA)
+#EXTGRP:Беларусь
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-logo="https://epgx.site/p/stv-by.png" tvg-id="stv-by",СТВ (HD)
+#EXTGRP:Беларусь
+http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС Прима.png",Приколы 3
 #EXTGRP:Юмор
 https://ipv4.bozztv.com/dvrfl07/ushba45/index.m3u8
@@ -3929,7 +3938,7 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/365 дней белый.png" tvg-id="-738589577_365-dnej",365 дней ТВ
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
-#EXTINF:-1,Беларусь 2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
 #EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" tvg-id="-738589577_gubernia",Губерния (Самара) (576p)
@@ -5105,9 +5114,6 @@ https://bkm.beetv.kz/btv/live/hls/000002762.m3u8
 #EXTINF:-1,XITE TV HD (NL)
 #EXTGRP:Music+
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" tvg-id="-738589577_tro",БелРос (576p)
-#EXTGRP:Беларусь
-https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Ictimai.png" tvg-id="-738589577_timeless-dizi",Timeless Dizi Channel
 #EXTGRP:Кино
 https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
@@ -7119,7 +7125,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTGRP:Новости
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Футбол Украина v2.png" tvg-id="-738589577_24news-ua",Украина 2
-#EXTGRP:УКРАИНА
+#EXTGRP:Украина
 https://ipv4.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Спорт 1.png" tvg-id="-738589577_sportivny",Спорт
 #EXTGRP:Спорт
@@ -11018,6 +11024,39 @@ http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 #EXTINF:-1 tvg-id="-738589577_sony-tv",.red
 #EXTGRP:Кино
 http://188.113.190.15/149/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/1+1.png" tvg-id="-738589577_1plus1",1+1 Марафон HD
-#EXTGRP:УКРАИНА
-https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="-738589577_kuxnia-tv",КУХНЯ
+#EXTGRP:Кухня
+http://otv.wotom.net:4433/udp/238.1.1.134:1234
+#EXTINF:-1 tvg-id="-738589577_chemodan",Чемодан ТВ UA
+#EXTGRP:Кухня
+http://88.135.128.20:7272/Ygd62Tsk08gbEr1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Новый канал.png" tvg-id="-738589577_novy-mir",Новый Мир
+#EXTGRP:Общие
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="-738589577_ostwest24",OstWest 24
+#EXTGRP:Общие
+http://95.67.12.82:9077
+#EXTINF:-1 tvg-id="-738589577_ostwest",OstWest
+#EXTGRP:Общие
+http://88.135.128.20:7272/yFVXEDuqCv9aaAv
+#EXTINF:-1 tvg-id="-738589577_chemodan",Чемодан ТВ UA
+#EXTGRP:Общие
+http://88.135.128.20:7272/Ygd62Tsk08gbEr1
+#EXTINF:-1,Mar TV
+#EXTGRP:Общие
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Travel Guide.png" tvg-id="-738589577_deutsche-welle-ru",Russischer Jahrmarkt
+#EXTGRP:Общие
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1,Каббала
+#EXTGRP:Общие
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дождь.png" tvg-id="-738589577_dozhd",ДОЖДЬ
+#EXTGRP:Общие
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/English Club TV.png" tvg-id="-738589577_english-club-tv",English Club TV
+#EXTGRP:Общие
+https://bkm.beetv.kz/btv/live/hls/000000202.m3u8
+#EXTINF:-1 tvg-id="-738589577_sol",Соль ТВ [eng]
+#EXTGRP:Общие
+http://88.135.128.20:7272/uDgxE2S49khcGde
