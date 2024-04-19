@@ -1,4 +1,5 @@
 #EXTM3U $BorpasFileFormat="1"
+url-tvg="https://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
 #EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -17,12 +18,15 @@ https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-music",ТНТ Music HD
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1,1MUS
+#EXTGRP:Music+
+http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjZa6eK.png" tvg-id="-738589577_bridge-hd",Deluxe Flashback (1080p)
 #EXTGRP:Music+
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-id="-738589577_mir-seriala",Мир сериала
 #EXTGRP:Сериалы
-http://87.76.32.36:9106/udp/238.1.1.136:1234
+https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan TV
 #EXTGRP:Казахстан
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
@@ -3949,7 +3953,7 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdVa8tl.png" tvg-id="-738589577_ntv-serial",НТВ Сериал
 #EXTGRP:Сериалы
-http://188.113.190.15/149/mono.m3u8
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Татарстан.png" tvg-id="-738589577_arsenaltv",Арсенал HD
 #EXTGRP:Познавательные
 http://109.239.208.82/arsenal/index.m3u8
@@ -6550,7 +6554,7 @@ http://109.239.208.82:80/muz1/index.m3u8
 http://otv.wotom.net:4433/udp/238.1.1.17:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/Телеканал новин 24.png" tvg-id="-738589577_radio-strana-fm-tv",Телеканал Радио Страна ФМ
 #EXTGRP:Музыка
-https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="-738589577_shanson-tv",Шансон-ТВ
 #EXTGRP:Музыка
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -11060,3 +11064,159 @@ https://bkm.beetv.kz/btv/live/hls/000000202.m3u8
 #EXTINF:-1 tvg-id="-738589577_sol",Соль ТВ [eng]
 #EXTGRP:Общие
 http://88.135.128.20:7272/uDgxE2S49khcGde
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ + Киносоюз.png" tvg-id="-738589577_vf-soyuzmultfilm",Союзмультфильм
+#EXTGRP:Детские
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-id="-738589577_1hd",1HD
+#EXTGRP:Music+
+http://146.158.0.56/1HD/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="-738589577_stv-by",СТВ Беларусь
+#EXTGRP:Беларусь
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия HD.png" tvg-id="-738589577_stv-by",СТВ (iptvlist.ru)
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.5:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a003#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a004#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a005#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus5",Беларусь 5
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.9:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
+#EXTGRP:Беларусь
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_tro",Белрос
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.123:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_tro",Белрос
+#EXTGRP:Беларусь
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь РТР
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a008#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1,Бобруйск 360
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.38:1234#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1&sapp_tvgid=bobruysk360
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат TV (BY/RU)
+#EXTGRP:Беларусь
+http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1&sapp_tvgid=belsattv
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат TV
+#EXTGRP:Беларусь
+https://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
+#EXTGRP:Беларусь
+https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
+#EXTGRP:Беларусь
+http://86.57.178.105:8421/bel1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-brest",Беларусь 4 HD Витебск
+#EXTGRP:Беларусь
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="-738589577_stv-by",СТВ (Беларусь)
+#EXTGRP:Беларусь
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Просвещение.png" tvg-id="-738589577_svetloe-tv",Светлое ТВ
+#EXTGRP:Беларусь
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a003
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a004
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
+#EXTGRP:Беларусь
+http://37.17.12.124:8901/play/a005
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат
+#EXTGRP:Беларусь
+http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат ТВ
+#EXTGRP:Беларусь
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
+#EXTGRP:Беларусь
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/A One бел..png" tvg-id="-738589577_tro",БелРос ТВ
+#EXTGRP:Беларусь
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24 (iptvlist.ru)
+#EXTGRP:Беларусь
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1 (Mogilev)
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.1:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.2:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.3:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-brest",Беларусь 4 (Mogilev)
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.125:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-vitebsk",Беларусь 4 Витебск
+#EXTGRP:Беларусь
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Афонтово.png" tvg-id="-738589577_ont-by",ОНТ
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.4:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ + Теннис.png" tvg-id="-738589577_ntv-belarus",НТВ Беларусь
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.6:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/РТР Планета.png" tvg-id="-738589577_rtr-belarus",РТР Беларусь
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.7:1234
+#EXTINF:-1,BTB HD
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.26:1234
+#EXTINF:-1 tvg-id="-738589577_vitebsk",Витебск HD
+#EXTGRP:Беларусь
+https://flu.vtv.by/tvt-non-by/index.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1,Бобруйск 360
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.38:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/8 канал.png" tvg-id="-738589577_8kanal-ru",8 канал
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.124:1234
+#EXTINF:-1 tvg-id="-738589577_zvyazda-by",Звязда
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.142:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/A One бел..png" tvg-id="-738589577_tro",БелРос ТВ
+#EXTGRP:Беларусь
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="-738589577_retro-tv",Ретро
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.92:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашние животные.png" tvg-id="-738589577_domashnie-zhivotnye",Домашние животные
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.93:1234
+#EXTINF:-1,USADBA
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.94:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Вопросы и ответы.png" tvg-id="-738589577_voprosy-i-otvety",Вопросы Ответы
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.95:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Союз.png" tvg-id="-738589577_soyuz",Союз
+#EXTGRP:Беларусь
+http://82.209.197.187:8080/udp/239.0.100.10:1234
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат TV (BY/RU)
+#EXTGRP:Беларусь
+https://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-logo="../Channel/Logo/ONE HD.png",One.by
+#EXTGRP:Music+
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="../Channel/Logo/CaspioNet.png",One.by HD
+#EXTGRP:Music+
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="../Channel/Logo/ONE HD Classic.png",One.by Россия
+#EXTGRP:Music+
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="../Channel/Logo/ONE HD Classic.png",One.by Россия HD
+#EXTGRP:Music+
+http://rtmp.one.by:2300
