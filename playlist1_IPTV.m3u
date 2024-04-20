@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1"
-url-tvg="https://www.teleguide.info/download/new3/xmltv.xml.gz"
+url-tvg="http://epg.it999/epg2.xml.gz"
 #EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
 #EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
@@ -15,7 +15,7 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Украина.png" tvg-id="-738589577_ictv-ua",ICTV
 #EXTGRP:Украина
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-music",ТНТ Music HD
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-music",ТНТ Music 
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1,1MUS
