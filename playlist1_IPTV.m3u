@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1"
-url-tvg="http://epg.it999/epg2.xml.gz"
+url-tvg="http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
 #EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
