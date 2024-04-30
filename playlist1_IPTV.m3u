@@ -10532,27 +10532,204 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="../Channel/Logo/ONE HD Classic.png",One.by Россия HD
 #EXTGRP:Music+
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
+#EXTINF:-1 tvg-logo="https://epgx.site/p/avtoradio.png" tvg-id="avtoradio",Авторадио
+#EXTGRP:Радио
 http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epgx.site/p/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
+#EXTINF:-1 tvg-logo="https://epgx.site/p/dorozhnoe-radio.png" tvg-id="dorozhnoe-radio",Дорожное Радио
+#EXTGRP:Радио
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 tvg-id="radio-dfm" tvg-logo="https://epgx.site/p/radio-dfm.png" group-title="Радио",Радио DFM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-dfm.png" tvg-id="radio-dfm",Радио DFM
+#EXTGRP:Радио
 http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио",Радио Маяк
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-mayak.png" tvg-id="radio-mayak",Радио Маяк
+#EXTGRP:Радио
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epgx.site/p/radio-mir.png" group-title="Радио",Радио Мир
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-mir.png" tvg-id="radio-mir",Радио Мир
+#EXTGRP:Радио
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://epgx.site/p/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-na7xolmax.png" tvg-id="radio-na7xolmax",Радио на семи холмах
+#EXTGRP:Радио
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 tvg-id="radio-romantika" tvg-logo="https://epgx.site/p/radio-romantika.png" group-title="Радио",Радио Романтика
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-romantika.png" tvg-id="radio-romantika",Радио Романтика
+#EXTGRP:Радио
 http://ic7.101.ru:8000/v4_1
-#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://epgx.site/p/radio-shanson.png" group-title="Радио",Радио Шансон
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-shanson.png" tvg-id="radio-shanson",Радио Шансон
+#EXTGRP:Радио
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://epgx.site/p/radio-vania.png" group-title="Радио",Радио Ваня
+#EXTINF:-1 tvg-logo="https://epgx.site/p/radio-vania.png" tvg-id="radio-vania",Радио Ваня
+#EXTGRP:Радио
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
-#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио",Ретро FM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/retro-fm.png" tvg-id="retro-fm",Ретро FM
+#EXTGRP:Радио
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио",Хит FM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/xit-fm.png" tvg-id="xit-fm",Хит FM
+#EXTGRP:Радио
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио",Юмор FM
+#EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" tvg-id="yumor-fm",Юмор FM
+#EXTGRP:Радио
 http://ic7.101.ru:8000/v5_1
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 1
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 2
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 3
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 4
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 5
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 6
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 7
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 8
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 9
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 10
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 11
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 12
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 13
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 14
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 15
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 16
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 17
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 18
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 19
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 20
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 21
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 22
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 23
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 24
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 25
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 26
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 27
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 28
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 29
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 30
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 31
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 32
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 33
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 34
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 35
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 36
+#EXTGRP:Кинозал
+https://ipv4.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UhxNu_Y7th3xbtWAlcmaGj0kQiJf5OW3NYJ2u8bV5-j.png",Chebur Смешной FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfdgTxQd-TQW4if8bra_Mem/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4XShU_8IIgYXrH4ihpLDDkicsFatibrnhFh3h46KLXSA.png",Chebur Приключения FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfwHILE_ARhYoPuYyeDh8ZA/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fkARLEldO5z0h-y7QRaKx1aVkwpW0K6KvQS3fCVGHkD.png",Chebur Драма FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndL3-xBFwDSTOmg1IfnNnjz/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X-usjflBO3cQKtG28zZ0ztecQEy-owaad89b_PY9MWp.png",Chebur Триллер FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndplrWz9W1BN8o4EEFbFlwi/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RymgbU-xLjPOZ_QYXF82FOHTPcaPCy94LSM8M14g8FF.png",Chebur Семейное  FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufRn0ELC89_xMm-UcmwDg1Us/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VcAr73-Qc3NFUtjo4Txs_faObCJgX4R0qC8GUPYdLOD.png",Chebur RU Сериал HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSfT3OpIF0cK4lNFAoY62Gy/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rno_cjmGFpRJ1d_WVhtba3j9-vN5MCqnHGABlBOqPNu.png",Chebur Фантастика UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufTAfk1IrsEfeXKeBCt585PY/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dzccScICG_llLt2phpJ_6pae-kL0tYv_fTPvAmeXoql.png",Chebur RU Кино HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSuCbSd4yJeIQV8Ym7foBeU/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4S_0sdQpFH_ZZtgu3EmIsNAJfh95VCxpazA36MU_jiyt.png",Chebur Стрелялки UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO7W7X1KeVo3uScZTSi6up8/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4en84rcI8AQ7F0WIw-KOdFGPj521JSb_QSDLbi5kjUCv.png",Chebur Новинки HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUMeGa2OPUAPlAxLhokC9LH0/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aMMyzKqbEJrC_qINml4KkxDO0QfsYs7pDFUa7gEJyBX.png",Chebur Фантазия HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO3YOKnMoj9gFWXdvGXof6y/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U94PYDJyWFCRx0CXq-W1EiLklzsMI62YJGpgdeExfvZ.png",Chebur Криминал HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUNfVuzaGGUlKfw9KvafDP9H/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fibf6CWVpM8Cw1F_8wJQrq2IlOCTU2TnQSghkR4243s.png",Chebur Вестерн HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUOdNl5sf4-2x9w75tn_9fdi/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dOiu7Kwy73bw-EA1JuSSbzUUyLODciNToqvl6_Ru1DI.png",Chebur Ужасный HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV7pQldLk8ealYHSUjlthEqY/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dASpw5SwrTTVLEid6q3lXKPqLNnCeXY5CvvG05PpEON.png",Chebur Мультики UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV4_zMn_HtU0ccO9Iz6V36LW/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VdPIzDDj_VjSDbfEeGuRZA9MtHqWEZfWIB2XpD5_g5d.png",Chebur Физ-Мульт Привет HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URHbrua8c4sP2fRo4nG8RPTZ/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TH82S4qY3wHy_5i0PXYHRXAoPMRfbb4_rvkTAQ-3g_8.png",Chebur СССР HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URGm0qzpXfhcN3nA43Xta5BL/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4SlmgsKhNetrSi4MY7najXeP6mAElmH3PCn1sY_4QAo8.png",Chebur Детектив HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7UREj9i6EbtRIPeuuBS5ulu0E/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YQD6D73ED1H2z824hhz9Oa6rKKvLXovVQOmn8wCSqFU.png",Chebur Мелодрама HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URFYRgXswxIMDuQIdCU8I_OC/ts
