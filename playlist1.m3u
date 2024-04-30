@@ -975,7 +975,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13014/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13015/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-tom-and-jerry",MM Tom and Jerry HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13016/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-ufo",MM UFO HD
 #EXTGRP:кино+
@@ -999,7 +999,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13022/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13023/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-agata",MM Агата Кристи HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13024/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-grindhouse",MM Грайндхаус HD
 #EXTGRP:кино+
@@ -1017,7 +1017,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13028/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13029/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-voronini",MM Воронины HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13031/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-zatmenie",MM Затмение HD
 #EXTGRP:кино+
@@ -1062,7 +1062,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13044/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13045/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-sitkom20",MM Ситком 2.0 HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13046/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-pogrujenie",MM Погружение HD
 #EXTGRP:кино+
@@ -1077,22 +1077,22 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13049/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13050/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-svati",MM Сваты HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13051/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-sitkom",MM Ситком HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13052/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-skorost",MM Скорость HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13053/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-sport",MM Спорт HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13054/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-st-king",MM Стивен Кинг HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13055/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-supergeroi",MM Супергерои HD
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13056/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-flip",MM Flip UHD
 #EXTGRP:кино+
@@ -1146,31 +1146,31 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/16085/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/16086/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-swty",VF Сваты
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13080/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-soldats",VF Солдаты
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13081/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-taynsled",VF Тайны следствия
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13082/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-voronins",VF Воронины
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13083/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-univer",VF Универ
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13084/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-series",VF Series
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13085/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-sled",VF След
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13086/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-serial",VF Сериал
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13087/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-mylnoper",VF Мыльные оперы
-#EXTGRP:кино+
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13088/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-thrilr",VF Thriller
 #EXTGRP:кино+
@@ -1191,7 +1191,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13093/index.m3u8
 #EXTGRP:кино+
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/13094/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-luidefunes",VF Луи де Фюнес
-#EXTGRP:кино+
+#EXTGRP:Актеры
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/17000/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_vf-chernobyl",VF Чернобыль
 #EXTGRP:кино+
