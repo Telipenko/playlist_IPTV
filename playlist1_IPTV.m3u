@@ -1,21 +1,20 @@
 #EXTM3U $BorpasFileFormat="1"
-url-tvg="http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
 #EXTGRP:Беларусь
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="-738589577_sony-tv",.RED
 #EXTGRP:Кино
 http://188.113.190.15/149/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV ARM RU.png" tvg-id="-738589577_bcu-charm",RM
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-hboseries",Clarity4K HBO series
 #EXTGRP:Kino+
-https://www.gtk.tv/hls/gtyar.m3u8
+http://87.99.87.203:2007/channel/35228d29/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1,За!TV
 #EXTGRP:Общие
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Украина.png" tvg-id="-738589577_ictv-ua",ICTV
 #EXTGRP:Украина
 https://ipv4.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-music",ТНТ Music 
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-music",ТНТ Music
 #EXTGRP:Музыка
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1,1MUS
@@ -24,18 +23,15 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjZa6eK.png" tvg-id="-738589577_bridge-hd",Deluxe Flashback (1080p)
 #EXTGRP:Music+
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-id="-738589577_mir-seriala",Мир сериала
+#EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="-738589577_russky-detektiv",Детективы
 #EXTGRP:Сериалы
-https://woobl.ru/hls987/Mir_seriala.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan TV
+https://tv.2222.one/ch20.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan
 #EXTGRP:Казахстан
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000005178.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png" tvg-id="-738589577_discovery-channel",Discovery Channel HD
 #EXTGRP:Познавательные
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Enter film.png" tvg-id="-738589577_dtx-pl",TERRA
-#EXTGRP:Познавательные
-error
 #EXTINF:-1 tvg-logo="../Channel/Logo/2х2.png",2х2 (Архив)
 #EXTGRP:Развлекательные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -4026,9 +4022,9 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-id="-738589577_mult",Мульт HD
 #EXTGRP:Детские
 https://woobl.ru/hls987/Mult_hd.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="-738589577_domkino",Дом кино
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-id="Domkino.ru",Дом Кино
 #EXTGRP:Кино
-http://195.26.83.96:7022/play/a00v/index.m3u8
+https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/24 Док.png" tvg-id="-738589577_doktor",Доктор
 #EXTGRP:Познавательные
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
@@ -4272,9 +4268,6 @@ http://91.142.158.107:8092/play/24/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Наука 2.0.png" tvg-id="-738589577_nauka-20",Наука 2.0
 #EXTGRP:Познавательные
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="-738589577_mtv-rocks",90s
-#EXTGRP:Music+
-http://prmstrm.1.fm:8000/90s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTtK0z7.png" tvg-id="-738589577_rtr-planeta-azia",РТР Планета Азия
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/63254
@@ -4287,9 +4280,6 @@ http://87.76.32.36:9106/udp/238.1.1.93:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/Наука 2.0.png" tvg-id="-738589577_nauka-20",Наука 2.0 HD
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
-#EXTINF:-1,80-90s hits
-#EXTGRP:Music+
-http://prmstrm.1.fm:8000/80s_90s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="-738589577_rtr-planeta-eu",РТР Планета Евро
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/4941
@@ -4299,9 +4289,6 @@ https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ+ Наше Кино.png" tvg-id="-738589577_nasha-sibir",Наша сибирь
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-#EXTINF:-1,60s_70s
-#EXTGRP:Music+
-http://prmstrm.1.fm:8000/60s_70s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="-738589577_rtr-planeta-azia",РТР Планета СНГ
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/63253
@@ -4314,9 +4301,6 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ + Наше новое кино.png" tvg-id="-738589577_nasha-sibir-4k",Наша Сибирь 4k (Архив)
 #EXTGRP:Познавательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дискотека ТВ.png" tvg-id="-738589577_domashny-magazin",Дискотека 90х
-#EXTGRP:Music+
-http://music.myradio.ua:8000/disco90192.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" tvg-id="-738589577_rtr-planeta-azia",РТР Планета США
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/63250
@@ -4326,9 +4310,6 @@ https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1,Океан
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
-#EXTINF:-1,Зарубежные хиты 90х
-#EXTGRP:Music+
-http://music.myradio.ua:8000/Hits90s192.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" tvg-id="-738589577_stb-ua",СТБ (720p)
 #EXTGRP:Общие
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -4341,9 +4322,6 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="-738589577_otkryty-mir",Открытый мир
 #EXTGRP:Познавательные
 http://146.158.0.56:80/OtkritiyMir/index.m3u8
-#EXTINF:-1,Абсолютный хит
-#EXTGRP:Music+
-http://music.myradio.ua:8000/absolute-hit192.mp3
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ+ Киносоюз.png" tvg-id="-738589577_kinosat",Киносат
 #EXTGRP:Кино
 https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
@@ -4353,9 +4331,6 @@ http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="-738589577_eureka-hd",Первый космический
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
-#EXTINF:-1,Італійська музика
-#EXTGRP:Music+
-http://music.myradio.ua:8000/italjanskaja-muzyka192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S1h1t0G.png",Сфера ТВ
 #EXTGRP:Общие
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
@@ -4368,9 +4343,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал (Беларусь).png" tvg-id="-738589577_eureka-hd",Первый космический HD
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000001220.m3u8
-#EXTINF:-1,Лучшие песни 70-80х
-#EXTGRP:Music+
-http://music.myradio.ua:8000/Old192.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png",УТРК (480p) [Not 24/7]
 #EXTGRP:Общие
 https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
@@ -4383,9 +4355,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 tvg-id="-738589577_pobeda",Победа
 #EXTGRP:Познавательные
 http://otv.wotom.net:4433/udp/238.1.1.128:1234
-#EXTINF:-1,Мейнстрим рок
-#EXTGRP:Music+
-http://music.myradio.ua:8000/main_stream_rock192.mp3
 #EXTINF:-1 tvg-logo="https://www.tck.tv/media/images/logo.png?v=2.1" tvg-id="-738589577_centr-kraskoyarsk",Центр (Красноярск)
 #EXTGRP:Общие
 https://stream.tck.tv/hd.m3u8
@@ -4398,9 +4367,6 @@ http://92.242.110.52:9835/udp/238.1.5.4:1234
 #EXTINF:-1 tvg-id="-738589577_poexali",Поехали!
 #EXTGRP:Познавательные
 http://195.26.83.96:7022/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="-738589577_yosso-melodrama",Мелодичный Рок
-#EXTGRP:Music+
-http://music.myradio.ua:8000/melodicrock192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KPXMa3U.png" tvg-id="-738589577_5kanal-ua",5 канал
 #EXTGRP:Общие
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -4410,9 +4376,6 @@ http://83.234.207.29:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС Прима.png" tvg-id="-738589577_prikluchenia-hd",Приключения HD
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ХипХоп Хит.png",Хип-Хоп
-#EXTGRP:Music+
-http://music.myradio.ua:8000/hip-hop192.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" tvg-id="-738589577_6tv",6 ТВ Горловка
 #EXTGRP:Общие
 http://91.237.3.3:4022/udp/224.2.2.4:10000
@@ -4425,9 +4388,6 @@ http://188.113.190.15/41/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Просвещение.png" tvg-id="-738589577_prosveschenie",Просвещение
 #EXTGRP:Познавательные
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Прима.png",Прикольные песни
-#EXTGRP:Music+
-http://music.myradio.ua:8000/Kapec192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-id="-738589577_12-omsk",12 канал
 #EXTGRP:Общие
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
@@ -4437,9 +4397,6 @@ http://strm.yandex.ru/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Психология 21.png" tvg-id="-738589577_psixologia-21",Психология 21
 #EXTGRP:Познавательные
 http://188.113.190.15/73/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ямал Регион.png",Регги
-#EXTGRP:Music+
-http://music.myradio.ua:8000/funkreggi192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-id="-738589577_360-news",360°
 #EXTGRP:Общие
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
@@ -4452,9 +4409,6 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="-738589577_ratnik",Ратник
 #EXTGRP:Познавательные
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png",Рок-н-ролл
-#EXTGRP:Music+
-http://music.myradio.ua:8000/rock-n-roll192.mp3
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/68/79/06/9wn.png" tvg-id="-738589577_mir-uvlecheniy",#КТОКУДА
 #EXTGRP:Общие
 http://camera.global-x.ru/MirUvlecheniy/index.m3u8
@@ -4464,24 +4418,15 @@ http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="-738589577_retro-tv",Ретро
 #EXTGRP:Познавательные
 http://109.239.208.82:80/retro/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="-738589577_mirovoe-kino-kz",Мировые хиты
-#EXTGRP:Music+
-http://music.myradio.ua:8000/world-hit192.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IO5jegK.png" tvg-id="-738589577_zoopark",Zooпарк
 #EXTGRP:Общие
 https://woobl.ru/hls987/Zoopark.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Комеди Клаб.png" tvg-id="-738589577_komedijnoe-hd",Комедийное HD
-#EXTGRP:Кино
-https://streamer1.connectto.com/519/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="-738589577_cartoon-classics",Cartoon Classics
 #EXTGRP:Детские
 http://178.163.37.154:4022/udp/234.0.0.238:2000
 #EXTINF:-1 tvg-logo="../Channel/Logo/РЖД ТВ.png" tvg-id="-738589577_rzhd-tv",РЖД HD
 #EXTGRP:Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1,Михаил Круг
-#EXTGRP:Music+
-http://music.myradio.ua:8000/mihail-krug192.mp3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал (Беларусь).png" tvg-id="-738589577_pervy",Первый канал (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -4494,9 +4439,6 @@ https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="-738589577_teleputeshestvia",Телепутешествия
 #EXTGRP:Познавательные
 http://91.207.114.209:5000/c93
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка Казантипа
-#EXTGRP:Music+
-http://music.myradio.ua:8000/Kazantip192.mp3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал (Беларусь).png" tvg-id="-738589577_pervy-pl9",Первый канал +9 (Архив)
 #EXTGRP:Общие
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
@@ -4509,9 +4451,6 @@ https://bkm.beetv.kz/btv/live/hls/000000015.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/24 Техно.png" tvg-id="-738589577_texno-24",Техно 24
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка для сна
-#EXTGRP:Music+
-http://music.myradio.ua:8000/sleepmusic192.mp3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="-738589577_pervy",Первый канал HD
 #EXTGRP:Общие
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
@@ -4521,15 +4460,9 @@ https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
 #EXTINF:-1 tvg-id="-738589577_teatr",Театр
 #EXTGRP:Познавательные
 http://188.113.190.15/180/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка кино
-#EXTGRP:Music+
-http://music.myradio.ua:8000/kino192.mp3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="-738589577_pervy",Первый канал HD +4
 #EXTGRP:Общие
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 tvg-logo="../Channel/Logo/3 канал (Москва).png" tvg-id="-738589577_mosfilm",Мосфильм. Золотая коллекция
-#EXTGRP:Кино
-http://otv.wotom.net:4433/udp/238.1.1.100:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/Gulli.png" tvg-id="-738589577_gulli-girl",Gulli Girl
 #EXTGRP:Детские
 https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
@@ -4599,9 +4532,6 @@ https://bkm.beetv.kz/btv/live/hls/000008052.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Мир.png" tvg-id="-738589577_ntv",НТВ HD
 #EXTGRP:Общие
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Плюс Спорт.png" tvg-id="-738589577_ntv-serial",НТВ-Сериал HD
-#EXTGRP:Кино
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 tvg-id="-738589577_pixel",Пiксель HD
 #EXTGRP:Детские
 http://149.5.17.34:20041/play/a05s
@@ -4680,9 +4610,6 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1,КiноКазка
 #EXTGRP:Детские
 http://78.26.128.59:9876/play/402/index.m3u8
-#EXTINF:-1,TeleRomagna
-#EXTGRP:Music+
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Россия Культура.png" tvg-id="-738589577_kultura-pl7",Россия К +7 (Архив)
 #EXTGRP:Общие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
@@ -4725,9 +4652,6 @@ https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1 tvg-id="-738589577_ducktv",DuckTV+
 #EXTGRP:Детские
 http://78.26.128.59:9876/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV NHD.png" tvg-id="-738589577_mtv-rocks",MTV 90s
-#EXTGRP:Music+
-https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="-738589577_tvcentr",ТВ Центр (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
@@ -4740,9 +4664,6 @@ http://31.131.136.4:8001/play/e017
 #EXTINF:-1,Niki Junior
 #EXTGRP:Детские
 http://78.26.128.59:9876/play/327/index.m3u8
-#EXTINF:-1 tvg-id="-738589577_svarozhichi",Сварожичі HD
-#EXTGRP:Music+
-http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="-738589577_tvcentr-pl7",ТВ Центр +7 (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
@@ -4755,9 +4676,6 @@ http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1,Niki Kids
 #EXTGRP:Детские
 http://78.26.128.59:9876/play/509/index.m3u8
-#EXTINF:-1 tvg-id="-738589577_m2-ua",М2 HD
-#EXTGRP:Music+
-http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/РенТВ.png" tvg-id="-738589577_rentv",РенТВ (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
@@ -4767,9 +4685,6 @@ http://83.234.207.29:8008/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/RTVi черный.png",TVIQ Інтерактивний канал
 #EXTGRP:Детские
 http://78.26.128.59:9876/play/219/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/М2.png" tvg-id="-738589577_m2-ua",М2
-#EXTGRP:Music+
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/РенТВ.png" tvg-id="-738589577_rentv-pl7",РенТВ +7 (Архив)
 #EXTGRP:Общие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
@@ -4779,9 +4694,6 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Всі мультики Сімпсони
 #EXTGRP:Детские
 https://tv.2222.one/ch1.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/MusicBOX UA v2.png",UA Music
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/63/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/РенТВ.png" tvg-id="-738589577_rentv",РенТВ HD
 #EXTGRP:Общие
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
@@ -4791,9 +4703,6 @@ https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
 #EXTINF:-1,Популярні мульты и серіали
 #EXTGRP:Детские
 https://tv.2222.one/ch9.m3u8
-#EXTINF:-1 tvg-id="-738589577_eu-music",EU Music
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/421/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/РенТВ.png" tvg-id="-738589577_rentv-int",РенТВ Int
 #EXTGRP:Общие
 http://otv.wotom.net:4433/udp/238.1.1.72:1234
@@ -4806,9 +4715,6 @@ https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="-738589577_multimania",МУЛЬТИМАНИЯ
 #EXTGRP:Детские
 https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
-#EXTINF:-1 tvg-id="-738589577_4ever-music",4ever Music
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/496/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Домашний магазин.png" tvg-id="-738589577_domashny",Домашний (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
@@ -4821,9 +4727,6 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="-738589577_detsky-mir",Детский мир
 #EXTGRP:Детские
 http://88.135.128.20:7272/QprBifEqIqS3hjD
-#EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic v.1.png" tvg-id="-738589577_classic-music",Classic Music
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/38/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Домашний магазин.png" tvg-id="-738589577_domashny-pl7",Домашний +7 (Архив)
 #EXTGRP:Общие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
@@ -4836,9 +4739,6 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Nick Jr..png" tvg-id="-738589577_nick-jr",Nick Jr
 #EXTGRP:Детские
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
-#EXTINF:-1 tvg-logo="../Channel/Logo/1 Rock.png" tvg-id="-738589577_mtv-rocks",ROCK
-#EXTGRP:Music+
-http://78.26.128.59:9876/play/493/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Домашний магазин.png" tvg-id="-738589577_domashny",Домашний HD
 #EXTGRP:Общие
 http://88.135.128.20:7272/CGGe9lr8Dx9PZy1
@@ -4851,9 +4751,6 @@ http://188.113.190.15/163/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="-738589577_nicktoons",Nicktoons HD
 #EXTGRP:Детские
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="-738589577_sony-turbo",Black
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/404/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ3 старый.png" tvg-id="-738589577_tv3-ru",ТВ3 (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
@@ -4863,9 +4760,6 @@ https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир + Телеклуб.png" tvg-id="-738589577_detkinoint-tviksel",Детское кино International
 #EXTGRP:Детские
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/1 Rock.png" tvg-id="-738589577_mtv-rocks",ROCK
-#EXTGRP:Music+
-http://tatooine.odessa.tv:9876/play/493/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ3 старый.png" tvg-id="-738589577_tv3-ru-pl7",ТВ3 +7 (Архив)
 #EXTGRP:Общие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
@@ -4878,9 +4772,6 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир + Телеклуб.png" tvg-id="-738589577_detkinoint-tviksel",Детское кино International
 #EXTGRP:Детские
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="-738589577_supertennis",Super TV
-#EXTGRP:Music+
-http://iptv.supertv.ro:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ3 старый.png" tvg-id="-738589577_tv3-by",ТВ3 Беларусь
 #EXTGRP:Общие
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
@@ -4893,9 +4784,6 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1,HGTN
 #EXTGRP:Детские
 https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка Кино International
-#EXTGRP:Music+
-http://autopilot.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="-738589577_zvezda",Звезда (Архив)
 #EXTGRP:Общие
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -4908,9 +4796,6 @@ http://92.242.110.52:9835/udp/238.1.9.30:1234
 #EXTINF:-1 tvg-id="-738589577_detsky",УНИКУМ
 #EXTGRP:Детские
 https://bkm.beetv.kz/btv/live/hls/000000048.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка 1 International
-#EXTGRP:Music+
-http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="-738589577_zvezda-pl7",Звезда +7 (Архив)
 #EXTGRP:Общие
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
@@ -4923,9 +4808,6 @@ http://92.242.110.52:9835/udp/238.1.9.13:1234
 #EXTINF:-1 tvg-id="-738589577_ryzhy",РЫЖИЙ
 #EXTGRP:Детские
 https://bkm.beetv.kz/btv/live/hls/000001445.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка Первого.png" tvg-id="-738589577_vf-musyka",Музыка 2 International
-#EXTGRP:Music+
-http://autopilot.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="-738589577_zvezda",Звезда HD
 #EXTGRP:Общие
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -5166,9 +5048,6 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="-738589577_izvestia",Вести ФМ
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/52035
-#EXTINF:-1,VHSка
-#EXTGRP:Кино
-http://strm.yandex.ru/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Карусель.png" tvg-id="-738589577_karusel",Карусель
 #EXTGRP:Детские
 http://109.248.236.21:4433/udp/238.1.1.45:1234
@@ -5415,90 +5294,45 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Плюс Кино Плюс.png" tvg-id="-738589577_kino1int-tviksel",Кино 1 International HD
 #EXTGRP:Общие
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20231024T231840SQUARE.png_20231024231841.png" tvg-id="-738589577_c-music-tv",Stingray Today's K-Pop
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
 #EXTINF:-1,Кнопка ТВ
 #EXTGRP:Общие
 https://api.alpaca.t62a.com/hls/9116/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20231024T231759SQUARE.png_20231024231801.png" tvg-id="-738589577_c-music-tv",Stingray DJAZZ
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-id="-738589577_krasnaya-linia",Красная линия
 #EXTGRP:Общие
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20231024T231727SQUARE.png_20231024231728.png",Qello Concerts by Stingray
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtuChZR.png" tvg-id="-738589577_krik-tv",КРИК-ТВ (Екатеринбург)
 #EXTGRP:Общие
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" tvg-id="-738589577_c-music-tv",Stingray Smooth Jazz
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-id="-738589577_ktk-kz",КТК
 #EXTGRP:Общие
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20231024T231756SQUARE.png_20231024231757.png" tvg-id="-738589577_c-music-tv",Stingray Classica
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZXBD9F.png" tvg-id="-738589577_kuraj",Курай (Уфа) (576p)
 #EXTGRP:Общие
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20231024T231843SQUARE.png_20231024231844.png" tvg-id="-738589577_c-music-tv",Stingray Today's Latin Pop
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy4SoG.png" tvg-id="-738589577_0x0-fireplace-hd",Ланет.TV (486p)
 #EXTGRP:Общие
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20231024T231821SQUARE.png_20231024231822.png" tvg-id="-738589577_c-music-tv",Stingray Romance Latino
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d02uxkB.png" tvg-id="-738589577_lot-47",Лен ТВ 24 (540p) [Geo-blocked]
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20231024T231803SQUARE.png_20231024231804.png" tvg-id="-738589577_c-music-tv",Stingray Easy Listening
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png",Магнат ТВ
 #EXTGRP:Общие
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png" tvg-id="-738589577_c-music-tv",Stingray Flashback 70s
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20231024T231818SQUARE.png_20231024231819.png" tvg-id="-738589577_c-music-tv",Stingray Remember the 80s
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png" tvg-id="-738589577_millet",Миллет (540p) [Not 24/7]
 #EXTGRP:Общие
 https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20231024T231815SQUARE.png_20231024231816.png" tvg-id="-738589577_c-music-tv",Stingray Nothin' But 90s
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
 #EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-id="-738589577_mir-belogoria",Мир Белагорья (720p) [Geo-blocked]
 #EXTGRP:Общие
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/2x2.png" tvg-id="-738589577_2na2",2x2
 #EXTGRP:Развлекательные
 http://178.163.51.39:4022/udp/234.0.0.244:2000
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20231024T231753SQUARE.png_20231024231754.png" tvg-id="-738589577_c-music-tv",Stingray Classic Rock
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXbUMVy.png" tvg-id="-738589577_moskva-24",Москва 24
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/1661
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20231114T233507SQUARE.png_20231114233508.png" tvg-id="-738589577_c-music-tv",Stingray Hip Hop
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231129T022255SQUARE.png_20231129022256.png" tvg-id="-738589577_c-music-tv",Stingray Hot Country Christmas
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 tvg-id="-738589577_360-podmoskovie",360 HD
 #EXTGRP:Развлекательные
 https://strm.yandex.ru/kal/360tv/360tv0.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231114T233419SQUARE.png_20231114233420.png" tvg-id="-738589577_c-music-tv",Stingray Greatest Holiday Hits
-#EXTGRP:Music+
-https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="-738589577_anekdottv",Анекдот ТВ
 #EXTGRP:Развлекательные
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
@@ -7257,257 +7091,29 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-738589577_rtvi-arhiv",Retrovision Classic
 #EXTGRP:Retro_film
 http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1,Cobra Detektiv HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n73225250/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1,Cobra Drama HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n7defe4c7/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1,Cobra Melodrama HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/2d7a5354/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1,Cobra Thriller HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/56064960/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop Mylt UA
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n4efa3560/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Cinema 4K
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n10f341e0/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Cinema 60 FPS
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/23d816c/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Cinema Best HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/1f541eaf/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Comedy HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/28f9a7dd/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Criminal HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n6a9f2cad/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Detektiv HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/56f0f78e/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Deutsche
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/773a0af3/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Docu HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/7f457439/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Fantazy HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/33cfa803/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV HD UA
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n78ab16b6/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Hard&Heavy Concerts HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/ae10061/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Hip Hop
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/49327692/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV History HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n22a100b2/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Horror HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/2d95cf2c/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Kids HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n189ed1f7/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Kung Fu
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n39d33fa/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Music
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n784d20e1/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Netflix HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n3c4df870/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV New Films HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/75ddabb3/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Peters Pop Show
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3638c03f/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Serial HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/6d9732a2/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Show HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n7284fc87/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Simpsons HD UA
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n40bba810/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Вторая мировая
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/22d781ee/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Кулинар
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/2aaa0761/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Масяня
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/24c9981a/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Мульт HD UA
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/57079c14/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-logo="../Channel/Logo/PRO деньги.png",Prokop TV Сказки СССР
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-action",BCU Action HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3e645a7/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-catastrophe",BCU Catastrophe HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n7848ede9/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-cinema",BCU Cinema HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/575b530c/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-cinemaplus",BCU Cinema+ HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n6bec86df/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-comedy",BCU Comedy HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n6eb7c59c/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-comedy",BCU Comedy HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n1bd3d9b5/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-cosmo",BCU Cosmo HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/30698872/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-cosmo",BCU Cosmo HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/56bbbd59/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-criminal",BCU Criminal HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/2454e01a/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-fantastic",BCU Fantastic HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/574fe120/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-filmystic",BCU FilMystic HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3c91e0ab/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-history",BCU History HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/7ee2bda7/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-kids-4k",BCU Kids 4K
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n6a8f4c15/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-kids",BCU Kids HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n6a8f49b0/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-kids-plus",BCU Kids+ HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/18aa7e5d/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-kinorating",BCU Kinorating HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3eca43a1/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-little",BCU Little HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n1b4af719/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-media",BCU MEDIA HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3f2b9417/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-media",BCU MEDIA HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n276a9182/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-marvel",BCU Marvel HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n2cd22a42/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-marvel",BCU Marvel HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/38c084a5/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-premiere",BCU Premiere 1 HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n3ebb86d/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-premiere",BCU Premiere 2 HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n3eb440e/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-premiere",BCU Premiere 3 HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n3eacfaf/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-premiere",BCU Premiere HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/5470fb44/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-premiere-4k",BCU Premiere Ultra 4K
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/607e37f3/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-ruserial",BCU RUSERIAL HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/36b4de26/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-reality",BCU Reality HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n46787995/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-reality",BCU Reality HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/44816d2/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-romantic",BCU Romantic HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n797477b4/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-romantic",BCU Romantic HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n3639bfcd/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-russia90s",BCU Russia 90s HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/ncefbf1a/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-russian",BCU Russian HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n432181b8/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-stars",BCU Stars HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n67737586/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-survival",BCU Survival HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/3a759f5f/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-survival",BCU Survival HD OLD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n42276a3a/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-trumotion",BCU TruMotion HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n71691872/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-ultra4k",BCU Ultra 4K
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n1e7f1316/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-vhs",BCU VHS HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/36c5b29a/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-multserial",BCU Мультсериал HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/584122fa/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-sssr",BCU СССР HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/f772f5e/index.m3u8?q=d351b8b20678d2120075d4db74400805
-#EXTINF:-1 tvg-id="-738589577_bcu-svaty",BCU Сваты HD
-#EXTGRP:Kino+
-http://158.101.194.132:8888/channel/n7feb114d/index.m3u8?q=d351b8b20678d2120075d4db74400805
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-asia",Clarity4K France music
-#EXTGRP:Kino+
+#EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5d8a98f9/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-hboseries",Clarity4K HBO series
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/35228d29/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-kinidetisssr",Clarity4K Kинодети CССР
 #EXTGRP:Kino+
 http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-asia",Clarity4K Russian music
-#EXTGRP:Kino+
+#EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5ca460ef/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-waltdisney",Clarity4K Walt Disney
 #EXTGRP:Kino+
 http://87.99.87.203:2007/channel/3fae467b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-waltdisney",Clarity4K World Music
-#EXTGRP:Kino+
+#EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5b8ca610/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-asia",Clarity4K deep house
-#EXTGRP:Kino+
+#EXTGRP:Music+
 http://87.99.87.203:2007/channel/1a5955b3/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-avtomaster",Clarity4K АвтоМастер
-#EXTGRP:Kino+
+#EXTGRP:Хобби
 http://87.99.87.203:2007/channel/38a1ae45/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic 2007.png" tvg-id="-738589577_clarity4k-asia",Clarity4K Города
-#EXTGRP:Kino+
+#EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/5cf9a64c/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-komedia",Clarity4K Комедия
 #EXTGRP:Kino+
@@ -7522,16 +7128,16 @@ http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42
 #EXTGRP:Kino+
 http://87.99.87.203:2007/channel/n22109934/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-multlandia",Clarity4K Мультляндия
-#EXTGRP:Kino+
+#EXTGRP:Детские
 http://87.99.87.203:2007/channel/n62ac791b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic 2007.png" tvg-id="-738589577_clarity4k-multimir",Clarity4K Мюзикл
 #EXTGRP:Kino+
 http://87.99.87.203:2007/channel/6d328edb/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-prikluchenia",Clarity4K Приключения
-#EXTGRP:Kino+
+#EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/222f0ee9/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-puteshestvie",Clarity4K Путешествие
-#EXTGRP:Kino+
+#EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/470ae523/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-sdelanowsssr",Clarity4K Семейный
 #EXTGRP:Kino+
@@ -7602,12 +7208,6 @@ https://tv.2222.one/ch18.m3u8
 #EXTINF:-1 tvg-id="-738589577_minimax-sitkom",Ситкомы
 #EXTGRP:Сериалы
 https://tv.2222.one/ch19.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="-738589577_russky-detektiv",Детективы
-#EXTGRP:Сериалы
-https://tv.2222.one/ch20.m3u8
-#EXTINF:-1,КП HD
-#EXTGRP:Кино
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ HD 1.png" tvg-id="-738589577_kinopremiera-hd",Кинопремьера HD
 #EXTGRP:Кино
 http://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
@@ -7644,21 +7244,6 @@ http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_vip-comedy-cee",Viasat Kino Comedy HD
 #EXTGRP:Кино
 http://88.135.128.20:7272/5RqMvVnGzdoBQbf
-#EXTINF:-1 tvg-id="-738589577_tv1000-russkoe-kino",Viju TV1000 Ру Кино
-#EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="-738589577_tv1000-russkoe-kino",TV1000 Р Кино
-#EXTGRP:Кино
-http://sc.id-tv.kz/TV1000RuKino_34_35.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="-738589577_tv1000-action",TV1000 Action
-#EXTGRP:Кино
-http://sc.id-tv.kz/TV1000Action_34_35.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000.png" tvg-id="-738589577_tv1000",TV1000
-#EXTGRP:Кино
-http://sc.id-tv.kz/TV1000_34_35.m3u8
-#EXTINF:-1 tvg-id="-738589577_tv1000",Viju TV1000
-#EXTGRP:Кино
-http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ + Премьера.png" tvg-id="-738589577_premium-kino-kz",Премиум Кино HD
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
@@ -7680,18 +7265,12 @@ http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Kinomania-TV.png" tvg-id="-738589577_atv-kinoman",Kinoman
 #EXTGRP:Кино
 http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:-1 tvg-id="-738589577_vf-series",SERIES movify.tv
-#EXTGRP:Кино
-https://void.greenhosting.ru/MovifySerial_Mpeg4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/StarTV.png" tvg-id="-738589577_start-air",START Air HD
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/StarTV.png" tvg-id="-738589577_start-world",START World
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Comedy TV.png" tvg-id="-738589577_paramount-comedy",COMEDY CENTRAL
-#EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-id="-738589577_flixsnip",FlixSnip HD
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
@@ -7804,17 +7383,11 @@ http://88.135.128.20:7272/OkcbfGtsHx1g4Vs
 #EXTGRP:Кино
 http://88.135.128.20:7272/qx4hiIaBoQlLK7f
 #EXTINF:-1,Duo3
-#EXTGRP:Кино
+#EXTGRP:Relax
 http://88.135.128.20:7272/FSvh0OsSPGQldO3
 #EXTINF:-1 tvg-logo="../Channel/Logo/Любимое Кино.png" tvg-id="-738589577_lubimoe-kino",Любимое кино
 #EXTGRP:Кино
 http://88.135.128.20:7272/JS7lUbMstASMl0r
-#EXTINF:-1 tvg-logo="../Channel/Logo/8 канал.png" tvg-id="-738589577_8kanal-by",8 канал HD
-#EXTGRP:Кино
-http://88.135.128.20:7272/kJd8eBVsywE41mz
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ictimai.png" tvg-id="-738589577_timeless-dizi",Timeless Dizi Channel
-#EXTGRP:Кино
-http://194.158.222.36:6086
 #EXTINF:-1 tvg-logo="../Channel/Logo/Феникс+Кино.png" tvg-id="-738589577_feniks-plus-kino",ФЕНИКС+КИНО
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000000125.m3u8
@@ -7833,9 +7406,6 @@ https://bkm.beetv.kz/btv/live/hls/000002348.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС 21.png",СТС SD
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000000428.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Сериала.png" tvg-id="-738589577_mir-seriala",Мир сериала 576
-#EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000319.m3u8
 #EXTINF:-1 tvg-id="-738589577_mosfilm",Золотая коллекция
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
@@ -8031,159 +7601,21 @@ https://v2.trm.md/static/streaming-playlists/hls/76541c86-d7de-4c73-b4c0-4fe6670
 #EXTINF:-1 tvg-logo="../Channel/Logo/Zone Reality.png" tvg-id="-738589577_bcu-reality",Realitatea TV
 #EXTGRP:World_channel
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ+ Новое Кино.png" tvg-id="-738589577_novoe-televidenie",НОВОЕ ТВ
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001380.m3u8
-#EXTINF:-1 tvg-id="-738589577_atameken-business",Atameken Business Channel HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000005322.m3u8
-#EXTINF:-1 tvg-id="-738589577_q-kino-hit",QAlem 1HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000005449.m3u8
-#EXTINF:-1 tvg-id="-738589577_q-kino-alem",QAlem 2HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000005450.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Балапан.png" tvg-id="-738589577_alautv",Алау тв
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001511.m3u8
-#EXTINF:-1 tvg-id="-738589577_irbis",Ирбис тв
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001513.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Zone Realty.png" tvg-id="-738589577_altai-kz",Altai
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001572.m3u8
-#EXTINF:-1 tvg-id="-738589577_aqjaiyq",Aqjaiyq
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001689.m3u8
-#EXTINF:-1,Otyrar
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001052.m3u8
-#EXTINF:-1 tvg-id="-738589577_qostanai-kz",Qostanai
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001521.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Rtvi.png" tvg-id="-738589577_rtvi",RTVI
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Italy TV.png" tvg-id="-738589577_asyl-arna",Talim TV
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000940.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 East.png" tvg-id="-738589577_astana",Astana TV
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000666.m3u8
-#EXTINF:-1 tvg-id="-738589577_fightbox-hd",TBK 6
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001516.m3u8
-#EXTINF:-1,TDK 42
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001507.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TLC.png" tvg-id="-738589577_tlc",TLC
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001498.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/LTV1.png" tvg-id="-738589577_tv1-lt",TV1
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000939.m3u8
-#EXTINF:-1 tvg-id="-738589577_qazaqstan-int",QAZAQSTAN HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000004208.m3u8
-#EXTINF:-1 tvg-id="-738589577_xabar",Хабар HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000004211.m3u8
-#EXTINF:-1 tvg-id="-738589577_xabar24",Хабар 24 HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000005177.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000005178.m3u8
-#EXTINF:-1 tvg-id="-738589577_kazsport",Qazsport HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:-1,Седьмой канал
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000659.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Kinomania-TV.png",Mańǵystaý
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003247.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Radio Montecarlo TV.png" tvg-id="-738589577_ontustik",Ońtústik
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003251.m3u8
-#EXTINF:-1 tvg-id="-738589577_qyzyljar",Qyzyljar
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003249.m3u8
-#EXTINF:-1 tvg-id="-738589577_saryarqa",Saryarqa
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003146.m3u8
-#EXTINF:-1 tvg-id="-738589577_ertis",Ertis
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003248.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/JimJam.png" tvg-id="-738589577_jambyl-kz",Jambyl
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003244.m3u8
 #EXTINF:-1 tvg-id="-738589577_kokshe",Kókshe
 #EXTGRP:Казахстан
 https://bkm.beetv.kz/btv/live/hls/000003021.m3u8
-#EXTINF:-1 tvg-id="-738589577_qyzylorda-kz",Qyzylorda
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003246.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Культура.png",Туркестан
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000007248.m3u8
-#EXTINF:-1 tvg-id="-738589577_trt-avaz",TRT AVAZ HD
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003240.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/eL Garage TV.png" tvg-id="-738589577_el-arna",El Arna
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000670.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Jetix.png",Jetisy
 #EXTGRP:Казахстан
 https://bkm.beetv.kz/btv/live/hls/000001458.m3u8
-#EXTINF:-1 tvg-id="-738589577_kazakh-tv",Jibek Joly
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000941.m3u8
-#EXTINF:-1 tvg-id="-738589577_77tv-kz",77
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000002851.m3u8
-#EXTINF:-1 tvg-id="-738589577_atameken-business",Atameken tv
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000001404.m3u8
-#EXTINF:-1 tvg-id="-738589577_almaty",Almaty TV
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000667.m3u8
 #EXTINF:-1,АйFak
 #EXTGRP:Казахстан
 https://bkm.beetv.kz/btv/live/hls/000001510.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/КТК (Казахстан).png" tvg-id="-738589577_ktk-kz",КТК
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000672.m3u8
 #EXTINF:-1 tvg-id="-738589577_toy-duman",ТОЙ  ДУМАН
 #EXTGRP:Казахстан
 https://bkm.beetv.kz/btv/live/hls/000002936.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nick Jr..png" tvg-id="-738589577_nick-jr",Nick Jr. KZ
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000008575.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/5 канал (Россия).png" tvg-id="-738589577_5kanal-ua",5 канал (региональный)
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000000950.m3u8
-#EXTINF:-1 tvg-id="-738589577_ulytau-kz",ULYTAU
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003604.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Татарстан.png" tvg-id="-738589577_taraz24-kz",Тараз 24
 #EXTGRP:Казахстан
 https://bkm.beetv.kz/btv/live/hls/000007838.m3u8
-#EXTINF:-1 tvg-id="-738589577_abaitv",ABAI TV
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000006116.m3u8
-#EXTINF:-1 tvg-id="-738589577_qazaqstan-int",QAZAQSTAN HD int
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000008058.m3u8
-#EXTINF:-1 tvg-id="-738589577_semei",Semei
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000003250.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Петербург Пятый v.1.png" tvg-id="-738589577_piatnica-int",Пятница International
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000007816.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="-738589577_tnt-kz",ТНТ KZ
-#EXTGRP:Казахстан
-https://bkm.beetv.kz/btv/live/hls/000007817.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/31 канал (Казахстан).png" tvg-id="-738589577_kazakhstan",Казахстан Кызылорда
 #EXTGRP:Казахстан
 http://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
@@ -8202,42 +7634,6 @@ http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/31 канал (Казахстан).png" tvg-id="-738589577_kazakhstan",Казахстан Павлодар
 #EXTGRP:Казахстан
 http://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/GlobalStar.png" tvg-id="-738589577_balapan",Balapan
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.146:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Tiji.png" tvg-id="-738589577_tiji",Tiji TV
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.121:1234
-#EXTINF:-1 tvg-id="-738589577_kazakh-tv",JIBEK JOLY
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.148:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 East.png" tvg-id="-738589577_astana",ASTANA TV
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.150:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/7ТВ.png" tvg-id="-738589577_78kanal",7
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.151:1234
-#EXTINF:-1,a lem 1
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.153:1234
-#EXTINF:-1,a lem 2
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.152:1234
-#EXTINF:-1 tvg-id="-738589577_almaty",ALMATY TV
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.149:1234
-#EXTINF:-1,EA EL ARNA
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.147:1234
-#EXTINF:-1 tvg-id="-738589577_qazaqstan-int",QAZAQSTAN HD
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.156:1234
-#EXTINF:-1 tvg-id="-738589577_xabar24",24KZ
-#EXTGRP:Казахстан
-http://109.248.236.21:4433/udp/238.1.1.145:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Сериала.png" tvg-id="-738589577_mir-seriala",Мир сериала
-#EXTGRP:Казахстан
-http://edge02.odtv.az/o1/cbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Comedy TV.png" tvg-id="-738589577_medeniyyet",Medeniyyet
 #EXTGRP:World_channel
 http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
@@ -11025,9 +10421,6 @@ https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ТВ3 старый.png" tvg-id="-738589577_tv3-by",ТВ3 Беларусь
 #EXTGRP:Общие
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
-#EXTINF:-1 tvg-id="-738589577_sony-tv",.red
-#EXTGRP:Кино
-http://188.113.190.15/149/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="-738589577_kuxnia-tv",КУХНЯ
 #EXTGRP:Кухня
 http://otv.wotom.net:4433/udp/238.1.1.134:1234
@@ -11076,93 +10469,18 @@ http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия HD.png" tvg-id="-738589577_stv-by",СТВ (iptvlist.ru)
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.5:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a003#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a004#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a005#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus5",Беларусь 5
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
-#EXTGRP:Беларусь
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
 #EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_tro",Белрос
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.123:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_tro",Белрос
 #EXTGRP:Беларусь
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь РТР
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a008#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
 #EXTINF:-1,Бобруйск 360
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.38:1234#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1&sapp_tvgid=bobruysk360
-#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат TV (BY/RU)
-#EXTGRP:Беларусь
-http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1&sapp_tvgid=belsattv
-#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат TV
-#EXTGRP:Беларусь
-https://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
-#EXTGRP:Беларусь
-https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
-#EXTGRP:Беларусь
-http://86.57.178.105:8421/bel1
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-brest",Беларусь 4 HD Витебск
-#EXTGRP:Беларусь
-https://flu.vtv.by/bt4-non-by/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="-738589577_stv-by",СТВ (Беларусь)
-#EXTGRP:Беларусь
-http://80.94.225.126:8080/STV/mono.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Просвещение.png" tvg-id="-738589577_svetloe-tv",Светлое ТВ
-#EXTGRP:Беларусь
-http://194.158.218.123:8880/SvetloeTV/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a003
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a004
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a005
-#EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат
-#EXTGRP:Беларусь
-http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Белсат.png" tvg-id="-738589577_belsat",Белсат ТВ
 #EXTGRP:Беларусь
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24
-#EXTGRP:Беларусь
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/A One бел..png" tvg-id="-738589577_tro",БелРос ТВ
-#EXTGRP:Беларусь
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus24",Беларусь 24 (iptvlist.ru)
-#EXTGRP:Беларусь
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus1",Беларусь 1 (Mogilev)
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.1:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus2",Беларусь 2
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.2:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus3",Беларусь 3
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.3:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-brest",Беларусь 4 (Mogilev)
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.125:1234
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь ТВ.png" tvg-id="-738589577_belarus4-vitebsk",Беларусь 4 Витебск
-#EXTGRP:Беларусь
-https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Афонтово.png" tvg-id="-738589577_ont-by",ОНТ
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.4:1234
@@ -11175,12 +10493,6 @@ http://82.209.197.187:8080/udp/239.0.100.7:1234
 #EXTINF:-1,BTB HD
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.26:1234
-#EXTINF:-1 tvg-id="-738589577_vitebsk",Витебск HD
-#EXTGRP:Беларусь
-https://flu.vtv.by/tvt-non-by/index.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1,Бобруйск 360
-#EXTGRP:Беларусь
-http://82.209.197.187:8080/udp/239.0.100.38:1234
 #EXTINF:-1 tvg-logo="../Channel/Logo/8 канал.png" tvg-id="-738589577_8kanal-ru",8 канал
 #EXTGRP:Беларусь
 http://82.209.197.187:8080/udp/239.0.100.124:1234
@@ -11220,3 +10532,27 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="../Channel/Logo/ONE HD Classic.png",One.by Россия HD
 #EXTGRP:Music+
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epgx.site/p/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 tvg-id="radio-dfm" tvg-logo="https://epgx.site/p/radio-dfm.png" group-title="Радио",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://epgx.site/p/radio-mayak.png" group-title="Радио",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://epgx.site/p/radio-mir.png" group-title="Радио",Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://epgx.site/p/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 tvg-id="radio-romantika" tvg-logo="https://epgx.site/p/radio-romantika.png" group-title="Радио",Радио Романтика
+http://ic7.101.ru:8000/v4_1
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://epgx.site/p/radio-shanson.png" group-title="Радио",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://epgx.site/p/radio-vania.png" group-title="Радио",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://epgx.site/p/retro-fm.png" group-title="Радио",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио",Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио",Юмор FM
+http://ic7.101.ru:8000/v5_1
