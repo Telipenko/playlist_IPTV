@@ -444,7 +444,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/15010/index.m3u8
 #EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/15009/index.m3u8
 #EXTINF:-1,VF Владимир Высоцкий
-#EXTGRP:кино
+#EXTGRP:Актеры
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/10066/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Ictimai.png" tvg-id="-738589577_timeless-dizi",Timeless Dizi Channel
 #EXTGRP:кино
@@ -900,10 +900,10 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/11060/index.m3u8
 #EXTGRP:кино
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/11061/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино HD.png" tvg-id="-738589577_bcu-sssr",Кинозал! Сваты
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/11062/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино HD.png" tvg-id="-738589577_bcu-sssr",Кинозал! Универ ТВ
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/11063/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/MTV-Russia.png" tvg-id="-738589577_ussr-premieregroup",USSR
 #EXTGRP:кино
@@ -1686,7 +1686,7 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/18032/index.m3u8
 #EXTGRP:кино
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/18036/index.m3u8
 #EXTINF:-1,VB Российские Сериалы
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/18043/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Kinomania-TV.png" tvg-id="-738589577_kinosweet",Kinoshka Thriller HD
 #EXTGRP:кино+
@@ -1911,19 +1911,19 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/19436/index.m3u8
 #EXTGRP:кино
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31621/index.m3u8
 #EXTINF:-1,VB Сваты HD
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31624/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_cineman-gluhar",CineMan Глухарь + Карпов
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31626/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_cineman-interny",CineMan Интерны
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31627/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_cineman-univer",CineMan Универ
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31628/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_cineman-fitnes",CineMan Фитнес
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31629/index.m3u8
 #EXTINF:-1 tvg-id="-738589577_magic-russian",Magic Russian HD
 #EXTGRP:кино
@@ -2028,13 +2028,13 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31706/index.m3u8
 #EXTGRP:кино
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31708/index.m3u8
 #EXTINF:-1,Байки из склепа
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31711/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Агро ТВ.png",Громовы
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31712/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Школьник ТВ.png",Коломбо
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31713/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Феникс+Кино.png" tvg-id="-738589577_kinojam1",КИНОДРОМ HD
 #EXTGRP:кино
@@ -2043,13 +2043,13 @@ http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31714/index.m3u8
 #EXTGRP:кино
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31715/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Загородная жизнь.png",Однажды в милиции
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31717/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Школьник ТВ.png",Ольга HD
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31718/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Репортер.png",Репка HD
-#EXTGRP:кино
+#EXTGRP:Сериалы
 http://vp4hcjiv.rostelekom.xyz/iptv/XCQ2VFN4WXU9QC/31719/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НСТ страшное v2.png" tvg-id="-738589577_astraxan24",СТРАХ FHD (2.0)
 #EXTGRP:кино
