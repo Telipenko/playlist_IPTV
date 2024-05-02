@@ -10568,6 +10568,64 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" tvg-id="yumor-fm",Юмор FM
 #EXTGRP:Радио
 http://ic7.101.ru:8000/v5_1
+
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UhxNu_Y7th3xbtWAlcmaGj0kQiJf5OW3NYJ2u8bV5-j.png",Chebur Смешной FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfdgTxQd-TQW4if8bra_Mem/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4XShU_8IIgYXrH4ihpLDDkicsFatibrnhFh3h46KLXSA.png",Chebur Приключения FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfwHILE_ARhYoPuYyeDh8ZA/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fkARLEldO5z0h-y7QRaKx1aVkwpW0K6KvQS3fCVGHkD.png",Chebur Драма FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndL3-xBFwDSTOmg1IfnNnjz/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X-usjflBO3cQKtG28zZ0ztecQEy-owaad89b_PY9MWp.png",Chebur Триллер FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndplrWz9W1BN8o4EEFbFlwi/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RymgbU-xLjPOZ_QYXF82FOHTPcaPCy94LSM8M14g8FF.png",Chebur Семейное  FHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufRn0ELC89_xMm-UcmwDg1Us/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VcAr73-Qc3NFUtjo4Txs_faObCJgX4R0qC8GUPYdLOD.png",Chebur RU Сериал HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSfT3OpIF0cK4lNFAoY62Gy/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rno_cjmGFpRJ1d_WVhtba3j9-vN5MCqnHGABlBOqPNu.png",Chebur Фантастика UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufTAfk1IrsEfeXKeBCt585PY/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dzccScICG_llLt2phpJ_6pae-kL0tYv_fTPvAmeXoql.png",Chebur RU Кино HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSuCbSd4yJeIQV8Ym7foBeU/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4S_0sdQpFH_ZZtgu3EmIsNAJfh95VCxpazA36MU_jiyt.png",Chebur Стрелялки UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO7W7X1KeVo3uScZTSi6up8/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4en84rcI8AQ7F0WIw-KOdFGPj521JSb_QSDLbi5kjUCv.png",Chebur Новинки HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUMeGa2OPUAPlAxLhokC9LH0/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aMMyzKqbEJrC_qINml4KkxDO0QfsYs7pDFUa7gEJyBX.png",Chebur Фантазия HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO3YOKnMoj9gFWXdvGXof6y/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U94PYDJyWFCRx0CXq-W1EiLklzsMI62YJGpgdeExfvZ.png",Chebur Криминал HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUNfVuzaGGUlKfw9KvafDP9H/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fibf6CWVpM8Cw1F_8wJQrq2IlOCTU2TnQSghkR4243s.png",Chebur Вестерн HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUOdNl5sf4-2x9w75tn_9fdi/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dOiu7Kwy73bw-EA1JuSSbzUUyLODciNToqvl6_Ru1DI.png",Chebur Ужасный HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV7pQldLk8ealYHSUjlthEqY/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dASpw5SwrTTVLEid6q3lXKPqLNnCeXY5CvvG05PpEON.png",Chebur Мультики UHD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV4_zMn_HtU0ccO9Iz6V36LW/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VdPIzDDj_VjSDbfEeGuRZA9MtHqWEZfWIB2XpD5_g5d.png",Chebur Физ-Мульт Привет HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URHbrua8c4sP2fRo4nG8RPTZ/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TH82S4qY3wHy_5i0PXYHRXAoPMRfbb4_rvkTAQ-3g_8.png",Chebur СССР HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URGm0qzpXfhcN3nA43Xta5BL/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4SlmgsKhNetrSi4MY7najXeP6mAElmH3PCn1sY_4QAo8.png",Chebur Детектив HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7UREj9i6EbtRIPeuuBS5ulu0E/ts
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YQD6D73ED1H2z824hhz9Oa6rKKvLXovVQOmn8wCSqFU.png",Chebur Мелодрама HD
+#EXTGRP:Kino+
+http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URFYRgXswxIMDuQIdCU8I_OC/ts
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 1
 #EXTGRP:Кинозал
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
@@ -10676,60 +10734,5 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 36
 #EXTGRP:Кинозал
 https://ipv4.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UhxNu_Y7th3xbtWAlcmaGj0kQiJf5OW3NYJ2u8bV5-j.png",Chebur Смешной FHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfdgTxQd-TQW4if8bra_Mem/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4XShU_8IIgYXrH4ihpLDDkicsFatibrnhFh3h46KLXSA.png",Chebur Приключения FHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfwHILE_ARhYoPuYyeDh8ZA/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fkARLEldO5z0h-y7QRaKx1aVkwpW0K6KvQS3fCVGHkD.png",Chebur Драма FHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndL3-xBFwDSTOmg1IfnNnjz/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4X-usjflBO3cQKtG28zZ0ztecQEy-owaad89b_PY9MWp.png",Chebur Триллер FHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXndplrWz9W1BN8o4EEFbFlwi/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4RymgbU-xLjPOZ_QYXF82FOHTPcaPCy94LSM8M14g8FF.png",Chebur Семейное  FHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufRn0ELC89_xMm-UcmwDg1Us/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VcAr73-Qc3NFUtjo4Txs_faObCJgX4R0qC8GUPYdLOD.png",Chebur RU Сериал HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSfT3OpIF0cK4lNFAoY62Gy/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4Rno_cjmGFpRJ1d_WVhtba3j9-vN5MCqnHGABlBOqPNu.png",Chebur Фантастика UHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufTAfk1IrsEfeXKeBCt585PY/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dzccScICG_llLt2phpJ_6pae-kL0tYv_fTPvAmeXoql.png",Chebur RU Кино HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi6VCKQC_xxecc6nyez3tufSuCbSd4yJeIQV8Ym7foBeU/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4S_0sdQpFH_ZZtgu3EmIsNAJfh95VCxpazA36MU_jiyt.png",Chebur Стрелялки UHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO7W7X1KeVo3uScZTSi6up8/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4en84rcI8AQ7F0WIw-KOdFGPj521JSb_QSDLbi5kjUCv.png",Chebur Новинки HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUMeGa2OPUAPlAxLhokC9LH0/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4aMMyzKqbEJrC_qINml4KkxDO0QfsYs7pDFUa7gEJyBX.png",Chebur Фантазия HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUO3YOKnMoj9gFWXdvGXof6y/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4U94PYDJyWFCRx0CXq-W1EiLklzsMI62YJGpgdeExfvZ.png",Chebur Криминал HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUNfVuzaGGUlKfw9KvafDP9H/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4fibf6CWVpM8Cw1F_8wJQrq2IlOCTU2TnQSghkR4243s.png",Chebur Вестерн HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi0eY6AbZcxXklhN4AqoCkUOdNl5sf4-2x9w75tn_9fdi/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dOiu7Kwy73bw-EA1JuSSbzUUyLODciNToqvl6_Ru1DI.png",Chebur Ужасный HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV7pQldLk8ealYHSUjlthEqY/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4dASpw5SwrTTVLEid6q3lXKPqLNnCeXY5CvvG05PpEON.png",Chebur Мультики UHD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSiyBSverJGDP2CbWZW_XEbV4_zMn_HtU0ccO9Iz6V36LW/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4VdPIzDDj_VjSDbfEeGuRZA9MtHqWEZfWIB2XpD5_g5d.png",Chebur Физ-Мульт Привет HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URHbrua8c4sP2fRo4nG8RPTZ/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TH82S4qY3wHy_5i0PXYHRXAoPMRfbb4_rvkTAQ-3g_8.png",Chebur СССР HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URGm0qzpXfhcN3nA43Xta5BL/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4SlmgsKhNetrSi4MY7najXeP6mAElmH3PCn1sY_4QAo8.png",Chebur Детектив HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7UREj9i6EbtRIPeuuBS5ulu0E/ts
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YQD6D73ED1H2z824hhz9Oa6rKKvLXovVQOmn8wCSqFU.png",Chebur Мелодрама HD
-#EXTGRP:Kino+
-http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URFYRgXswxIMDuQIdCU8I_OC/ts
+
+
