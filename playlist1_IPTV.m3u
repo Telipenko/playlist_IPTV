@@ -10568,7 +10568,6 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-logo="https://epgx.site/p/yumor-fm.png" tvg-id="yumor-fm",Юмор FM
 #EXTGRP:Радио
 http://ic7.101.ru:8000/v5_1
-
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4UhxNu_Y7th3xbtWAlcmaGj0kQiJf5OW3NYJ2u8bV5-j.png",Chebur Смешной FHD
 #EXTGRP:Kino+
 http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi-iH3meVzPem_uFWzOIrXnfdgTxQd-TQW4if8bra_Mem/ts
@@ -10626,6 +10625,36 @@ http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7UREj
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4YQD6D73ED1H2z824hhz9Oa6rKKvLXovVQOmn8wCSqFU.png",Chebur Мелодрама HD
 #EXTGRP:Kino+
 http://chiburator.monster:8000/play/QHg9RpcrFC7qEVnwi3OSi8dDblBCimoiGdgYYpD7URFYRgXswxIMDuQIdCU8I_OC/ts
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216",Ultra HD Cinema
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="1",Ultra HD Cinema (-1)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="2",Ultra HD Cinema (-2)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="3",Ultra HD Cinema (-3)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="4",Ultra HD Cinema (-4)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="5",Ultra HD Cinema (-5)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="6",Ultra HD Cinema (-6)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="7",Ultra HD Cinema (-7)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="8",Ultra HD Cinema (-8)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="9",Ultra HD Cinema (-9)
+#EXTGRP:Kino+
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 1
 #EXTGRP:Кинозал
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
@@ -10734,5 +10763,3 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 36
 #EXTGRP:Кинозал
 https://ipv4.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
-
-
