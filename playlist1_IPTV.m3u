@@ -10656,110 +10656,110 @@ http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1
 #EXTGRP:Kino+
 http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 1
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 2
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 3
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 4
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 5
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 6
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 7
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 8
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 9
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 10
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 11
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 12
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 13
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 14
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 15
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 16
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 17
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 18
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 19
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 20
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 21
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 22
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 23
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 24
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 25
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 26
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 27
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 28
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 29
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 30
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 31
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 32
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-k/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 33
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 34
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 35
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/КИНОЗАЛ Кино.png" tvg-id="-738589577_bcu-sssr",Кинозалы 36
-#EXTGRP:Кинозал
+#EXTGRP:Кинозалы
 https://ipv4.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
