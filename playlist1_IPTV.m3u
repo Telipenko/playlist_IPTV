@@ -31,7 +31,8 @@ https://tv.2222.one/ch20.m3u8
 https://bkm.beetv.kz/btv/live/hls/000005178.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png" tvg-id="-738589577_discovery-channel",Discovery Channel HD
 #EXTGRP:Познавательные
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/2х2.png",2х2 (Архив)
 #EXTGRP:Развлекательные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -6064,7 +6065,8 @@ https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 http://188.113.190.15/71/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="-738589577_discovery-channel",DISCOVERY CHANNEL
 #EXTGRP:Познавательные
-https://bkm.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="-738589577_e-tv",E TV
 #EXTGRP:Хобби
 http://92.242.110.52:9835/udp/238.1.7.5:1234
