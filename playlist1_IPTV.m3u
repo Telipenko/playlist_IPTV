@@ -31,7 +31,6 @@ https://tv.2222.one/ch20.m3u8
 https://bkm.beetv.kz/btv/live/hls/000005178.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel v.1.png" tvg-id="-738589577_discovery-channel",Discovery Channel HD
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/2х2.png",2х2 (Архив)
 #EXTGRP:Развлекательные
@@ -6065,7 +6064,6 @@ https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
 http://188.113.190.15/71/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="-738589577_discovery-channel",DISCOVERY CHANNEL
 #EXTGRP:Познавательные
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="-738589577_e-tv",E TV
 #EXTGRP:Хобби
@@ -7099,15 +7097,9 @@ http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=d351b8b20678d2120075d4
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-asia",Clarity4K France music
 #EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5d8a98f9/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-kinidetisssr",Clarity4K Kинодети CССР
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/4f21ced1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-asia",Clarity4K Russian music
 #EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5ca460ef/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-waltdisney",Clarity4K Walt Disney
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/3fae467b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-waltdisney",Clarity4K World Music
 #EXTGRP:Music+
 http://87.99.87.203:2007/channel/n5b8ca610/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
@@ -7120,42 +7112,15 @@ http://87.99.87.203:2007/channel/38a1ae45/index.m3u8?q=1b8c2b84d89772e85341da42b
 #EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic 2007.png" tvg-id="-738589577_clarity4k-asia",Clarity4K Города
 #EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/5cf9a64c/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-komedia",Clarity4K Комедия
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/n4bb5ae19/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-komediasssr1",Clarity4K Комедия СССР 1
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/n5b8f1b17/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-komediasssr2",Clarity4K Комедия СССР 2
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/n5b8f1b16/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-kosmomir",Clarity4K Космомир
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/n22109934/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-multlandia",Clarity4K Мультляндия
 #EXTGRP:Детские
 http://87.99.87.203:2007/channel/n62ac791b/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic 2007.png" tvg-id="-738589577_clarity4k-multimir",Clarity4K Мюзикл
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/6d328edb/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-prikluchenia",Clarity4K Приключения
 #EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/222f0ee9/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-puteshestvie",Clarity4K Путешествие
 #EXTGRP:Познавательные
 http://87.99.87.203:2007/channel/470ae523/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-sdelanowsssr",Clarity4K Семейный
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/n2fed93da/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/VH1 Classic v.1.png" tvg-id="-738589577_clarity4k-uzasy",Clarity4K Ужасы
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/nca6bc20/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png" tvg-id="-738589577_clarity4k-uzasy",Clarity4K Ужасы VHS
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/5b642ba1/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat TV1000 Classic.png" tvg-id="-738589577_clarity4k-fantastik",Clarity4K Фантастика
-#EXTGRP:Kino+
-http://87.99.87.203:2007/channel/15197eb5/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
 #EXTINF:-1 tvg-logo="../Channel/Logo/Pro Все.png",Все мульты
 #EXTGRP:Сериалы
 https://tv.2222.one/ch1.m3u8
@@ -10660,3 +10625,33 @@ http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1
 #EXTINF:-1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg" tvg-id="2369.216" tvg-shift="9",Ultra HD Cinema (-9)
 #EXTGRP:Kino+
 http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Travel Guide.png" tvg-id="-738589577_russian-extreme-uhd",Russian Extreme Ultra HD
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="1",Russian Extreme Ultra HD (-1)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="2",Russian Extreme Ultra HD (-2)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="3",Russian Extreme Ultra HD (-3)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="4",Russian Extreme Ultra HD (-4)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="5",Russian Extreme Ultra HD (-5)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="6",Russian Extreme Ultra HD (-6)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="7",Russian Extreme Ultra HD (-7)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="8",Russian Extreme Ultra HD (-8)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png" tvg-id="-738589577_russian-extreme-uhd" tvg-shift="9",Russian Extreme Ultra HD (-9)
+#EXTGRP:Kino+
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
